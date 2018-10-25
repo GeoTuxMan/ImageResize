@@ -1,5 +1,5 @@
 # ImageResize
-Resize a image from console
+Resize an image from the console
 
 Programming language: C++
 
